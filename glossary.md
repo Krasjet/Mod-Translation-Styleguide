@@ -253,8 +253,14 @@
 	- Solid Canning Machine：固体装罐机
 - Machine（概括）：机械
 	- Standard Machine Casing：普通机械外壳
-- Generator（机械）：发电机
+- Generator（机械，产电）：发电机
 	- Geothermal Generator：地热发电机
+- Generator（机械，产其它能量）：发生器
+	- Steam Kinetic Generator：蒸汽动能发生器
+- Turbine：涡轮
+	- Steam Turbine：蒸汽涡轮
+- Motor：马达
+	- Electric Motor：电动马达
 - Crystal：水晶
 	- Lapotron Crystal：兰波顿水晶
 - Coil：线圈
