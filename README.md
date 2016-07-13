@@ -15,6 +15,7 @@
 	- 比如手册中存在的定语从句
 	- 原文：`The Red Cedar Tree is a large tree that has magical properties.`([Totemic](https://github.com/TeamTotemic/Totemic)，TeamTotemic)
 	- 译文：`高大无比的红柏树有着魔法的属性。`
+- 对于可以翻译的词，都需要翻译，除非有特殊的语境（如Botania的更新日志）
 - 不需要保留英文原文
 
 ## 02.保留字符（串）
@@ -30,6 +31,7 @@
 - 少数mod使用XML格式的语言文件，对于这种文件请保留以 `<` 和 `>` 开头结尾的标签
 - 能量单位（EU、MJ等）请保留不翻译
 - 按键（如Shift、Ctrl等）请不要翻译，并将首字母大写
+- 指令（如 `/say`，`/effect`）请保留不要翻译
 
 ## 03.标点符号
 
