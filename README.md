@@ -31,7 +31,9 @@
 - 少数mod使用XML格式的语言文件，对于这种文件请保留以 `<` 和 `>` 开头结尾的标签
 - 能量单位（EU、MJ等）请保留不翻译
 - 按键（如Shift、Ctrl等）请不要翻译，并将首字母大写
-- 指令（如 `/say`，`/effect`）请保留不要翻译
+- 指令（如 `/say`，`/effect`）以及明文参数请保留不要翻译，而解释性参数则需要翻译
+	- 原文：`/achievement <give|take> <name|*> [player]`(Minecraft, Mojang)
+	- 译文：`/achievement <give|take> <成就名|*> [玩家]`
 
 ## 03.标点符号
 
