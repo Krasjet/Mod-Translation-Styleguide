@@ -35,6 +35,7 @@
 - Block：方块
 - Item：物品
 - Tools：工具
+- GUI/Gui：GUI
 - Creative Tabs：(?)创造面板，创造选项卡，创造模式标签页
 - Mob：生物
 - Monster：怪物
