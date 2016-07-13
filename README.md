@@ -16,7 +16,7 @@
 	- 原文：`The Red Cedar Tree is a large tree that has magical properties.`([Totemic](https://github.com/TeamTotemic/Totemic)，TeamTotemic)
 	- 译文：`高大无比的红柏树有着魔法的属性。`
 - 对于可以翻译的词，都需要翻译，除非有特殊的语境（如Botania的更新日志）
-- 不需要保留英文原文
+- 不需要保留英文原文，如果实在不知道怎么翻译，提交时有暂未翻译的条目，请直接删除这些条目，不要从 `en_US.lang` 中复制英文的，在游戏中会自动回溯至英文的对应词条
 
 ## 02.保留字符（串）
 
