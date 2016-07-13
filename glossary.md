@@ -1,6 +1,6 @@
 # 译名标准化列表
 
-以下列表均为可能产生歧义的，以及非常重要的译名，对于像是Apple或者Copper这种存在唯一翻译的将不做收录。
+以下列表均为可能产生歧义的，以及非常重要的译名，对于像是Apple或者Copper这种存在唯一翻译的将不做收录。注意此列表提供的翻译如果与原文意义不符或不通顺的话请以原文意义为准，并可发Issue指出其它意义。
 
 某些很重要的词条取自于[Minecraft Wiki](http://minecraft-zh.gamepedia.com/Minecraft_Wiki:%E8%AF%91%E5%90%8D%E6%A0%87%E5%87%86%E5%8C%96)。
 
@@ -50,7 +50,7 @@
 - Biome：生物群系
 - Chunk：区块
 - Void：虚空
-- Inventory：物品栏
+- Inventory：(?)物品栏
 - Potion：药水
 - Effect：效果
 - Enchantment（名词）：魔咒
@@ -100,6 +100,8 @@
 - Wear（其它装备）：穿
 
 ## 颜色
+
+通顺情况下请保留“色”。比如说“黑色羊毛”。
 
 - Black：黑色
 - Red：红色
@@ -275,7 +277,6 @@
 - Reinforced：强化
 - Resonant：谐振
 - Augment：拓展组件
-- Flux：通量
 - Capacitor：电容
 	- Leadstone Flux Capacitor：铅石RF电容
 - Schematic：图纸
