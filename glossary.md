@@ -1,6 +1,8 @@
 # 译名标准化列表
 
-以下列表均为可能产生歧义的，以及非常重要的译名，对于像是Apple或者Copper这种存在唯一翻译的将不做收录。注意此列表提供的翻译如果与原文意义不符或不通顺的话请以原文意义为准，并可发Issue指出其它意义。
+以下列表均为可能产生歧义的，以及非常重要的译名，对于像是Apple或者Copper这种存在唯一翻译的将不做收录。注意此列表提供的翻译如果与原文意义不符或不通顺的话请以**原文意义**为准，并可发Issue指出其它意义。
+
+并且，此列表仅提供跨mod标准化，至于mod内标准化则需要翻译者自己处理。
 
 某些很重要的词条取自于[Minecraft Wiki](http://minecraft-zh.gamepedia.com/Minecraft_Wiki:%E8%AF%91%E5%90%8D%E6%A0%87%E5%87%86%E5%8C%96)。
 
@@ -72,7 +74,7 @@
 - Input：输入，原料
 - Output：输出，产物
 - Redstone Signal：红石信号
-- Energy（IC系）：电量
+- Energy（IC系，电）：电量
 - Energy：能量
 
 ## 动词相关
@@ -147,6 +149,12 @@
 	- Oak Fence：橡木栅栏
 - Fence Gate：栅栏门
 	- Oak Fence Gate：橡木栅栏门
+- Brick：砖块
+	- Nether Brick：地狱砖块
+- Smooth：平滑
+	- Smooth Sandstone：平滑沙石
+- Chiseled：錾制
+	- Chiseled Sandstone：錾制
 - Block：块
 	- Copper Block：铜块
 	- Block of Copper：铜块
@@ -171,13 +179,17 @@
 	- Copper Dust：铜粉
 	- Purified：纯净的
 	- Crushed：粉碎的
+	- Impure：含杂
+	- Centrifuged：离心
 	- Tiny Pile of：小撮
+	- Small Pile of：小堆
 - Cell/Unit：单元
 	- Lava Cell：熔岩单元
 - Bucket：桶
 	- Lava Bucket：熔岩桶
 - Plate：板
 	- Copper Plate：铜板
+	- Dense：致密
 - Rune：符文
 	- Rune of Fire：火之符文
 - Helmet：头盔
@@ -200,7 +212,7 @@
 	- Bronze Shovel：青铜锹
 - Pickaxe：镐
 	- Bronze Pickaxe：青铜镐
-- Axe：斧
+- Axe/Ax：斧
 	- Bronze Axe：青铜斧
 - Hoe：锄
 	- Bronze Hoe：青铜锄
@@ -224,6 +236,12 @@
 	- Bronze Mortar：青铜臼
 - Chisel：凿
 	- Bronze Chisel：青铜凿
+- Broadsword：大剑
+- Longsword：长剑
+- Rapier：西洋剑
+- Dagger：匕首
+- Lumber Axe：伐木斧
+- Mattock：鹤嘴锄
 - Wire Cutter：剪线钳
 - Scoop：捕蜂网
 - Branch Cutter：剪枝工具
@@ -267,8 +285,8 @@
 - Crystal：水晶
 	- Lapotron Crystal：兰波顿水晶
 - Coil：线圈
-- Tank：(?)储罐，水槽，槽
-
+- Tank（储存流体**容器**）：储罐
+- Tank（其它意思，如鱼缸，或者能开炮的那种等）：<根据语境>
 
 ## TE系列
 
@@ -291,6 +309,5 @@
 - Sponge：海绵
 - Strongbox：保险箱
 - Workbench：工作台
-- Tank：储罐
 
 ### 持续更新中
