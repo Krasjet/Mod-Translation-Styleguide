@@ -310,4 +310,31 @@
 - Strongbox：保险箱
 - Workbench：工作台
 
+## TC系列
+
+- Aura：灵气
+- Arcane：奥术
+- Golem：傀儡
+- Thaumium/Thaumic：神秘
+- Primal：(?)原始，元始
+- Taint：腐化
+- Aspect：要素
+- Eldritch：邪术
+- Cultist：血腥
+- Node：节点
+- Flux：咒波
+- Amulet：护身符
+- Ring：指环
+- Belt：腰带
+- Wand：法杖
+- Scepter：权杖
+- Staff：手杖
+- Wand Focus：法杖核心
+- Cap：杖端
+- Rod：杖柄
+- Staff Core：杖芯
+- Seal：印记
+	- Control Seal：操控印记
+- Warp：扭曲
+
 ### 持续更新中
