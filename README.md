@@ -26,7 +26,7 @@
 - 在某些mod的手册中会使用 `<br>` 作为换行符，遇到时请保留
 - 某些mod使用 `&` 或者 `§` 后加一个字符或者数字表示颜色或者格式，在此标识出现后的文字都将变成对应的颜色或者格式，一般使用 `&0` 或者 `§0` 恢复默认颜色，`&r` 或者 `§r` 恢复默认格式。遇到时请保留，并将其放到对应文本两侧
 	- 具体字符含义请参考Minecraft Wiki：[http://minecraft.gamepedia.com/Formatting_codes](http://minecraft.gamepedia.com/Formatting_codes)
-- 在遇到JSON字符串的时候，请**仅**翻译 `"text"` 项的值，对于其它的键和值请保留均不翻译
+- 在遇到tellraw JSON字符串的时候，请**仅**翻译 `"text"` 项的值，对于其它的键和值请保留均不翻译
 	- 原文：`{"text":" has shared a ","color":"blue"}`([Botania](https://github.com/Vazkii/Botania)，Vazkii)
 	- 译文：`{"text":"分享了一本","color":"blue"}`
 - 少数mod使用XML格式的语言文件，对于这种文件请保留以 `<` 和 `>` 开头结尾的标签
