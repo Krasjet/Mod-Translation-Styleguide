@@ -316,7 +316,7 @@
 - Arcane：奥术
 - Golem：傀儡
 - Thaumium/Thaumic：神秘
-- Primal：(?)原始，元始
+- Primal：元始
 - Taint：腐化
 - Aspect：要素
 - Eldritch：邪术
