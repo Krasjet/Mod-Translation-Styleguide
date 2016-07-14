@@ -83,6 +83,7 @@
 - Delete：删除
 - Remove：移除
 - Click：点击
+- Right Click：右击
 - Activate/Active：激活
 - Deactivate/Inactive：禁用
 - Enable（选项）：启用
