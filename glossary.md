@@ -76,6 +76,9 @@
 - Redstone Signal：红石信号
 - Energy（IC系，电）：电量
 - Energy：能量
+- Tick（名词）：刻
+	- `Stopped debug profiling after %.2f seconds (%d ticks)`
+	- `在 %.2f 秒（%d 刻）后停止调试分析`
 
 ## 动词相关
 
