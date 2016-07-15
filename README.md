@@ -11,6 +11,7 @@
 - **以原文为准**，除非原文实在无法简明翻译，不要存在意译
 	- 原文一般为 `en_US.lang` 文件内的内容
 	- 但如果是日站mod或者其它语言的mod请参考对应的语言文件
+- 在翻译之前熟悉翻译词条的位置，以及对应物品或者选项的功能，确保能知道语境下词条的真正意义
 - 符合中文表达习惯，如果无法转换则改写句子形式
 	- 比如手册中存在的定语从句
 	- 原文：`The Red Cedar Tree is a large tree that has magical properties.`([Totemic](https://github.com/TeamTotemic/Totemic)，TeamTotemic)
