@@ -184,6 +184,7 @@
 	- Centrifuged：离心
 	- Tiny Pile of：小撮
 	- Small Pile of：小堆
+	- Pile of：一堆
 - Cell/Unit：单元
 	- Lava Cell：熔岩单元
 - Bucket：桶
@@ -287,6 +288,8 @@
 	- Lapotron Crystal：兰波顿水晶
 - Coil：线圈
 - Tank（储存流体**容器**）：储罐
+	- Portable Tank：便携储罐
+	- Ender Tank：末影储罐
 - Tank（其它意思，如鱼缸，或者能开炮的那种等）：<根据语境>
 
 ## TE系列
