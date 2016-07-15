@@ -79,6 +79,8 @@
 - Tick（名词）：刻
 	- `Stopped debug profiling after %.2f seconds (%d ticks)`
 	- `在 %.2f 秒（%d 刻）后停止调试分析`
+- Stack（量词）：组
+- Stack（动词）：堆叠
 
 ## 动词相关
 
