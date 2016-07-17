@@ -155,8 +155,9 @@
 	- Oak Fence：橡木栅栏
 - Fence Gate：栅栏门
 	- Oak Fence Gate：橡木栅栏门
-- Brick：砖块
+- Brick：砖（非原物品），砖块
 	- Nether Brick：地狱砖块
+	- Nether Brick Stairs：地狱砖楼梯
 - Smooth：平滑
 	- Smooth Sandstone：平滑沙石
 - Chiseled：錾制
