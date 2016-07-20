@@ -69,7 +69,7 @@
 		- 译文：`这双富含神秘的魔力工艺技巧的靴子能让任何旅行者的旅途变得更轻松愉快。<BR>它能够让你移动得比平常更加迅速，并且能够直接掠过较高的台子。它也能够让你跳得更高，落得更远。`
 	- 如果原文本身就在玩梗，或者语气非常轻松，那么也不需要使用非常正式的语言
 		- 原文：`NANI SORE!? BOTANIA IS OUTDATED!?`([Botania](https://github.com/Vazkii/Botania)，Vazkii)
-		- 译文：`(つд⊂)なにそれ！？植物魔法版版本落后了！？`
+		- 译文：`(つд⊂)なにそれ！？植物魔法版本落后了！？`
 - 如果原文使用了拉丁化的日语，请将其重写为日语的原文
 - 如果原文使用了游戏电影等中的梗，请首先参考原出处的中文翻译
 	- 原文：`You notice Botania has updated. It fills you with determination.`([Botania](https://github.com/Vazkii/Botania)，Vazkii，梗出自于Undertale)
