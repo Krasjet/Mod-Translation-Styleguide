@@ -191,8 +191,10 @@
 	- Tiny Pile of：小撮
 	- Small Pile of：小堆
 	- Pile of：一堆
-- Cell/Unit：单元
+- Cell/Unit（流体容器）：单元
 	- Lava Cell：熔岩单元
+- Cell（核燃料）：棒
+	- 钍棒：Thorium Cell
 - Bucket：桶
 	- Lava Bucket：熔岩桶
 - Plate：板
