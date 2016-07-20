@@ -173,6 +173,8 @@
 		- Crushed Copper Ore：粉碎铜矿石
 - Nugget：粒
 	- Copper Nugget：铜粒
+- Shard：碎片
+	- Diamond Shard：钻石碎片
 - Cable：(?)导线
 	- Copper Cable：铜导线
 	- Insulated：绝缘
@@ -278,8 +280,9 @@
 	- Copper Item Casing：铜制外壳
 - Circuit Board/Board：电路板
 - Circuit：电路
-- Orb：球
+- Orb：球，宝珠
 	- Data Orb：数据球
+	- Blood Orb：气血宝珠
 - Machine（后缀）：机
 	- Solid Canning Machine：固体装罐机
 - Machine（概括）：机械
@@ -299,6 +302,7 @@
 	- Portable Tank：便携储罐
 	- Ender Tank：末影储罐
 - Tank（其它意思，如鱼缸，或者能开炮的那种等）：<根据语境>
+- Ritual：仪式
 
 ## TE系列
 
@@ -328,6 +332,11 @@
 - Arcane：奥术
 - Golem：傀儡
 - Thaumium/Thaumic：神秘
+- Thaumaturgy：神秘学
+- Alchemy：炼金术
+- Artifice：炼化学
+- Golemancy：傀儡学
+- Eldritch：邪术学
 - Primal：元始
 - Taint：腐化
 - Aspect：要素
