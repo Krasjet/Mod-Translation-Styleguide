@@ -61,11 +61,26 @@
 - **参考**本工程的[译名标准化列表](https://github.com/Meow-J/Mod-Translation-Styleguide/blob/master/glossary.md)进行翻译
 - 如果还没有找到，请自行拟定翻译并发送PR更新本工程的译名标准化列表，如果实在无法想出翻译，则暂时留为英文
 
-## 05.署名
+## 05.语言
+
+- 对于语言的正式程度，请参见词条原文
+	- 如果原文非常正式，那么请不要玩梗或卖萌
+		- 原文：`This pair of enchanted boots have been stuffed full of magic to ease the journey of any traveler.<BR>They allow you to move faster than normal. They also allow you to jump higher and fall further.`([Thaumcraft 5](https://github.com/Azanor/thaumcraft-5)，Azanor，节选)
+		- 译文：`这双富含神秘的魔力工艺技巧的靴子能让任何旅行者的旅途变得更轻松愉快。<BR>它能够让你移动得比平常更加迅速，并且能够直接掠过较高的台子。它也能够让你跳得更高，落得更远。`
+	- 如果原文本身就在玩梗，或者语气非常轻松，那么也不需要使用非常正式的语言
+		- 原文：`NANI SORE!? BOTANIA IS OUTDATED!?`([Botania](https://github.com/Vazkii/Botania)，Vazkii)
+		- 译文：`(つд⊂)なにそれ！？植物魔法版版本落后了！？`
+- 如果原文使用了拉丁化的日语，请将其重写为日语的原文
+- 如果原文使用了游戏电影等中的梗，请首先参考原出处的中文翻译
+	- 原文：`You notice Botania has updated. It fills you with determination.`([Botania](https://github.com/Vazkii/Botania)，Vazkii，梗出自于Undertale)
+	- 译文：`你注意到植物魔法已经更新了。这使你充满了决心。`
+- 如果你自己做了一版卖萌形式或者玩梗形式的汉化文件，请不要发送到作者那里作为默认的汉化文件，仅流传在第三方就行了
+
+## 06.署名
 
 - 除非作者在语言文件中专门提供了翻译者署名的地方，请不要添加任何其它标识标明翻译者的名字，特别是作者让你签署CLA的情况。你的贡献将会在文件上方的Contribution处显示
 
-## 06.相关工具
+## 07.相关工具
 
 - craft之前写的一个[文本更新检测工具](https://github.com/crafteverywhere/Craft_Minecraft_Mod_Localization/blob/master/lang_checker.py)（运行需要Python 3+环境）
 - GWYOG的[LocalizationAssistant](https://github.com/GWYOG/LocalizationAssistant)（运行需要Java运行环境）
