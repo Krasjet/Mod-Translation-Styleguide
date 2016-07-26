@@ -303,6 +303,11 @@
 	- Ender Tank：末影储罐
 - Tank（其它意思，如鱼缸，或者能开炮的那种等）：<根据语境>
 - Ritual：仪式
+- Arrow：箭
+	- Arrow of <>：<>之箭
+- Potion：药水
+	- Splash：喷溅型
+	- Lingering：滞留型
 
 ## TE系列
 
