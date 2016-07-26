@@ -6,6 +6,8 @@
 
 对规范或者例子中提到的译文如果有改进的欢迎提交Pull Request，如果对文档有建议的请开Issue，如果是比较小的问题也可以直接点击指南顶部那个按钮在Gitter上讨论。
 
+如果遇到翻译问题，请新开Issue或者在Gitter内讨论。
+
 本文档采用[WTFPL](http://www.wtfpl.net/about/)协议，但对本文档的传播请链接至[本工程](https://github.com/Meow-J/Mod-Translation-Styleguide)。
 
 ## 01.普适原则
