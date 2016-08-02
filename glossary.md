@@ -81,6 +81,8 @@
 	- `在 %.2f 秒（%d 刻）后停止调试分析`
 - Stack（量词）：组
 - Stack（动词）：堆叠
+- Blockstate：方块状态
+- TileEntity/Block Entity：(?)TileEntity/方块实体值
 
 ## 动词相关
 
@@ -107,6 +109,8 @@
 - Configure：配置
 - Wear（头盔、帽子）：戴
 - Wear（其它装备）：穿
+- Done：完成
+- Preset：预设
 
 ## 颜色
 
