@@ -302,7 +302,7 @@
 - Crystal：水晶
 	- Lapotron Crystal：兰波顿水晶
 - Coil：线圈
-- Tank（储存流体**容器**）：储罐
+- Tank（储存流体**容器**，物品或方块）：储罐
 	- Portable Tank：便携储罐
 	- Ender Tank：末影储罐
 - Tank（其它意思，如鱼缸，或者能开炮的那种等）：<根据语境>
