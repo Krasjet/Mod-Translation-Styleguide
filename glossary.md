@@ -38,7 +38,7 @@
 - Item：物品
 - Tools：工具
 - GUI/Gui：GUI
-- Creative Tabs：(?)创造面板，创造选项卡，创造模式标签页
+- Creative Tab：创造标签页
 - Mob：生物
 - Monster：怪物
 - Entity：实体
@@ -53,7 +53,8 @@
 - Biome：生物群系
 - Chunk：区块
 - Void：虚空
-- Inventory：(?)物品栏
+- Inventory（玩家，生物）：物品栏
+- Inventory（机器）：物品缓存
 - Potion：药水
 - Effect：效果
 - Enchantment（名词）：魔咒
@@ -65,7 +66,7 @@
 - Current：电流
 - Voltage：电压
 - Bookmark：书签
-- Slot：(?)方格，格子
+- Slot：格子
 - Grid：网格
 - Setting：设置
 - Option：选项
@@ -83,6 +84,7 @@
 - Stack（动词）：堆叠
 - Blockstate：方块状态
 - TileEntity/Block Entity：(?)TileEntity/方块实体值
+- Tooltip：提示文本
 
 ## 动词相关
 
@@ -179,11 +181,11 @@
 	- Copper Nugget：铜粒
 - Shard：碎片
 	- Diamond Shard：钻石碎片
-- Cable：(?)导线
-	- Copper Cable：铜导线
+- Cable：(?)线缆
+	- Copper Cable：铜线缆
 	- Insulated：绝缘
-- Wire：(?)线缆
-	- Copper Wire：铜线缆
+- Wire：(?)导线
+	- Copper Wire：铜导线
 - Disc：唱片
 - Chest：箱，箱子
 	- Diamond Chest：钻石箱子
@@ -305,6 +307,7 @@
 - Tank（储存流体**容器**，物品或方块）：储罐
 	- Portable Tank：便携储罐
 	- Ender Tank：末影储罐
+- Tank（机器内部缓存）：流体/气体/液体缓存（视语境）
 - Tank（其它意思，如鱼缸，或者能开炮的那种等）：<根据语境>
 - Ritual：仪式
 - Arrow：箭
