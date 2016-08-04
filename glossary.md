@@ -50,6 +50,7 @@
 - Equipment：装备
 - Spawn：生成
 - Overworld：主世界
+- Dimension：维度
 - Biome：生物群系
 - Chunk：区块
 - Void：虚空
