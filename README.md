@@ -6,7 +6,7 @@
 
 对规范或者例子中提到的译文如果有改进的欢迎提交Pull Request，如果对文档有建议的请开Issue，如果是比较小的问题也可以直接点击指南顶部那个按钮在Gitter上讨论。
 
-如果遇到翻译问题，请新开Issue或者在Gitter内讨论。
+如果遇到翻译问题或者翻译请教，请新开Issue或者在Gitter内讨论。
 
 本文档采用[WTFPL](http://www.wtfpl.net/about/)协议，但对本文档的传播请链接至[本工程](https://github.com/Meow-J/Mod-Translation-Styleguide)。
 
@@ -81,11 +81,19 @@
 	- 译文：`你注意到植物魔法已经更新了。这使你充满了决心。`
 - 如果你自己做了一版卖萌形式或者玩梗形式的汉化文件，请不要发送到作者那里作为默认的汉化文件，仅流传在第三方就行了
 
-## 06.署名
+## 08.Mod名翻译
+
+1. 这里的Mod名指的是语言文件内的Mod名
+2. 如果是国产Mod，则中文名采用Mod作者自定义的名称
+3. 如果是经典Mod，有早已熟知唯一译名，则采用该熟知译名（如IndustrialCraft2，工业时代2；Twilight Forest，暮色森林）
+4. 如果Mod名为术语或者单词翻译不存在歧义，则采用翻译名（如Forestry，林业；Logistics Pipes，物流管道；Chisel，凿子）
+5. 如以上均不符，则在汉化文件内保留英文，民间翻译仅供流传使用。有一定用户量后，如果某一民间翻译人气非常高，则之后会采用人气最高版本的翻译。（如Minecraft，我的世界）
+
+## 07.署名
 
 - 除非作者在语言文件中专门提供了翻译者署名的地方，请不要添加任何其它标识标明翻译者的名字，特别是作者让你签署CLA的情况。你的贡献将会在文件上方的Contribution处显示
 
-## 07.相关工具
+## 08.相关工具
 
 - craft之前写的一个[文本更新检测工具](https://github.com/crafteverywhere/Craft_Minecraft_Mod_Localization/blob/master/lang_checker.py)（运行需要Python 3+环境）
 - GWYOG的[LocalizationAssistant](https://github.com/GWYOG/LocalizationAssistant)（运行需要Java运行环境）
