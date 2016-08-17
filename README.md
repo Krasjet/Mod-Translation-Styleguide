@@ -4,6 +4,8 @@
 
 为了Minecraft中Mod翻译的统一，玩家良好的体验，以及中文Minecraft Mod社区的统一，本文档将对Mod翻译事项进行规定，同时也会提供翻译所需的相关资料以及工具。希望各位Mod翻译者能尽量遵守本文档中的一些指示，将翻译文件标准化。
 
+In case you don't know what this project is: it's a translation guide for Minecraft Mod aimed to standardize all the **Simplified Chinese** mod translation files(yes, I should've specified CN in the repo name, but apparently I forgot). If you are not a Chinese speaker, just ignore the following content, since you probably don't need it.
+
 对规范或者例子中提到的译文如果有改进的欢迎提交Pull Request，如果对文档有建议的请开Issue，如果是比较小的问题也可以直接点击指南顶部那个按钮在Gitter上讨论。
 
 如果遇到翻译问题或者翻译请教，请新开Issue或者在Gitter内讨论。
@@ -78,7 +80,7 @@
 		- 原文：`NANI SORE!? BOTANIA IS OUTDATED!?`([Botania](https://github.com/Vazkii/Botania)，Vazkii)
 		- 译文：`(つд⊂)なにそれ！？植物魔法版本落后了！？`
 - 如果原文使用了拉丁化的日语，请将其重写为日语的原文
-- 如果原文使用了游戏电影等中的梗，请首先参考原出处的中文翻译
+- 如果原文使用了游戏电影等中的梗，请首先参考原出处的中文翻译，如果是日语而没有统一的翻译，则改写为日语原文（在此情况下请保持翻译与否的统一）
 	- 原文：`You notice Botania has updated. It fills you with determination.`([Botania](https://github.com/Vazkii/Botania)，Vazkii，梗出自于Undertale)
 	- 译文：`你注意到植物魔法已经更新了。这使你充满了决心。`
 - 如果你自己做了一版卖萌形式或者玩梗形式的汉化文件，请不要发送到作者那里作为默认的汉化文件，仅流传在第三方就行了
