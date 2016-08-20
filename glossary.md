@@ -340,6 +340,7 @@
 - Workbench：工作台
 - Invar：殷钢
 - Electrum：琥珀金
+- Redstone Flux：RF
 
 ## TC系列
 
