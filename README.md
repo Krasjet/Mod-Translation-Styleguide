@@ -24,7 +24,8 @@ In case you don't know what this project is: it's a translation guide for Minecr
 	- 译文：`高大无比的红柏树有着魔法的属性。`
 - 对于可以翻译的词，都需要翻译，除非有特殊的语境（如Botania的更新日志）
 - 对于那些没有翻译的条目，或者翻译与原文完全一致，则不需要保留英文原文。如果实在不知道怎么翻译，提交时有暂未翻译的条目，请直接删除这些条目，不要从 `en_US.lang` 中复制英文的原文，在游戏中会自动回溯至英文的对应词条
-	- 若需要保留和原文文件的行数一致，可在保留不译的行开头添加`#`注释掉。 
+	- 若需要保留和原文文件的行数一致，可在保留不译的行开头添加`#`注释掉
+- 语言文件请保存为`UTF-8 without BOM`的编码(Encoding)，一般编辑器中都有类似的设置
 - 提交前请先将语言文件放进mod的 `.jar` 文件中测试，确保效果符合预期
 
 ## 02.保留字符（串）
@@ -59,12 +60,12 @@ In case you don't know what this project is: it's a translation guide for Minecr
 	- 有通用翻译的外文人名或商标，则进行翻译
 		- 如翻译牛顿、阿基米德等
 	- 出现神话或故事中出现的人物或怪物名请首先搜索流行译名，如果找不到的话则音译
-		- 原文：Baykok([Totemic](https://github.com/TeamTotemic/Totemic)，TeamTotemic)
-		- 译文：贝柯克
+		- 原文：`Baykok`([Totemic](https://github.com/TeamTotemic/Totemic)，TeamTotemic)
+		- 译文：`贝柯克`
 	- 指mod社区的某个人物，或贡献列表中的人物，或者已有商标无中文翻译的则保留不翻译
 		- 如 `Vazbee`([Magic Bees](https://github.com/MagicBees/MagicBees)，MysteriousAges，Arkandos，mezz，et al)
-		- 原文：Patreon Pie([Pam's HarvestCraft](https://github.com/MatrexsVigil/harvestcraft)，MatrexsVigil)
-		- 译文：Patreon派
+		- 原文：`Patreon Pie`([Pam's HarvestCraft](https://github.com/MatrexsVigil/harvestcraft)，MatrexsVigil)
+		- 译文：`Patreon派`
 	- 对于其它的名字，保留原文不翻译
 - 对于原版中出现过的词语请根据Minecraft Wiki上的[译名标准列表](http://minecraft-zh.gamepedia.com/Minecraft_Wiki:%E8%AF%91%E5%90%8D%E6%A0%87%E5%87%86%E5%8C%96)进行翻译（注意默认方块、实体、物品是隐藏的，需要手动点击显示）
 - **参考**本工程的[译名标准化列表](https://github.com/Meow-J/Mod-Translation-Styleguide/blob/master/glossary.md)进行翻译
