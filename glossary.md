@@ -374,4 +374,47 @@
 	- Control Seal：操控印记
 - Warp：扭曲
 
+##GT系列
+
+- Lapis：青金
+- Lazurite：青金石
+- Kanthal：坝塔尔合金
+- Sterling Silver：标准银
+- Enriched Copper：富集铜
+- Fluxed Electrum：软质琥珀金
+- Fluxed Obsidian：软质黑曜石
+- Infuscolium：魔金
+- Starconium：星辰金
+- Thyrium：鍪银
+- Endium：末金
+- Zectium：泽克金属（工业2吧吧友翻译）
+- Mercassium：原力金属（工业2吧吧友翻译）
+- Osmonium：辉锇（工业2吧吧友翻译）
+- Nikolite：蓝石
+- Teslatite：充能蓝石
+- Forcicium：力场宝石
+- Forcillium：力场晶体
+- Elvenelementium：精灵源质
+- Phoenixite：凤凰石 
+- DiamondCopper：铜钻
+- Phasedgold：脉冲金
+- Phaseiron：脉冲合金铁
+- Tarpitch：焦油沥青
+- Concrete：湿混凝土
+- Satinspar：纤维石
+- Blue Vitriol：胆矾
+- Sodium Persulfate：过硫酸钠
+- Lubricant：润滑油
+- Fuel：燃油
+- Hydric Sulfide：硫化氢
+- Refinery Gas：炼油气
+- Sulfuric Gas：硫化气 
+- Epoxid：环氧聚合物
+- Nitration Mixture：硝化混合物
+- Nitro-Carbon：硝基衍生物
+- Sulfuric：含硫（的）
+- Cracked：裂化（的）
+- Hot Frying Oil：热煎炸油
+
 ### 持续更新中
+
