@@ -47,12 +47,14 @@ In case you don't know what this project is: it's a translation guide for Minecr
 
 ## 03.标点符号
 
-- 请与原版Minecraft保持统一，使用中文的标点符号
+- 请与原版Minecraft保持统一，使用中文的标点符号。如果是保留不翻译的英文中的标点符号，则仍保留英文的标点符号
 	- 原文：`Weighted Pressure Plate (Heavy)`(Minecraft, Mojang)
 	- 译文：`测重压力板（重质）`
 - 遵守《标点符号用法》：[http://people.ubuntu.com/~happyaron/l10n/GB(T)15834-2011.html](http://people.ubuntu.com/~happyaron/l10n/GB(T)15834-2011.html)
 - 对于英文标点符号前或后的空格，请在修改标点符号为中文时删除
 - 仅修改文本当中的标点符号，对于JSON的格式标点符号请保留
+
+注：关于中文全角标点的显示问题，请跟踪[MC-109260](https://bugs.mojang.com/browse/MC-109260)。
 
 ## 04.专有名词
 
