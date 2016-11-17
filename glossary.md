@@ -387,9 +387,9 @@
 - Starconium：星辰金
 - Thyrium：鍪银
 - Endium：末金
-- Zectium：泽克金属（工业2吧吧友翻译）
-- Mercassium：原力金属（工业2吧吧友翻译）
-- Osmonium：辉锇（工业2吧吧友翻译）
+- Zectium：泽克金属
+- Mercassium：原力金属
+- Osmonium：辉锇
 - Nikolite：蓝石
 - Teslatite：充能蓝石
 - Forcicium：力场宝石
@@ -415,6 +415,6 @@
 - Sulfuric：含硫（的）
 - Cracked：裂化（的）
 - Hot Frying Oil：热煎炸油
+- Platinum Group Sludge：铂系金属沉积泥
 
 ### 持续更新中
-
