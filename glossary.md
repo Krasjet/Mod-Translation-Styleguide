@@ -376,8 +376,8 @@
 
 ##GT系列
 
-- Lapis：青金
-- Lazurite：青金石
+- Lapis：青金石
+- Lazurite：结晶青金石
 - Kanthal：坝塔尔合金
 - Sterling Silver：标准银
 - Enriched Copper：富集铜
@@ -411,7 +411,7 @@
 - Sulfuric Gas：硫化气 
 - Epoxid：环氧聚合物
 - Nitration Mixture：硝化混合物
-- Nitro-Carbon：硝基衍生物
+- Nitro-Carbon：
 - Sulfuric：含硫（的）
 - Cracked：裂化（的）
 - Hot Frying Oil：热煎炸油
