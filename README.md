@@ -54,7 +54,7 @@ In case you don't know what this project is: it's a translation guide for Minecr
 - 对于英文标点符号前或后的空格，请在修改标点符号为中文时删除
 - 仅修改文本当中的标点符号，对于JSON的格式标点符号请保留
 
-注：关于中文全角标点的显示问题，请跟踪[MC-109260](https://bugs.mojang.com/browse/MC-109260)。
+注：关于中文全角标点的显示问题，请跟踪[MC-109260](https://bugs.mojang.com/browse/MC-109260)，如果可以的话，请Vote一下这个Issue，或者回复一下“confirmed”，让开发者能够看到这个Issue。
 
 ## 04.专有名词
 

@@ -374,7 +374,7 @@
 	- Control Seal：操控印记
 - Warp：扭曲
 
-##GT系列
+## GT系列
 
 - Lapis：青金石
 - Lazurite：结晶青金石
