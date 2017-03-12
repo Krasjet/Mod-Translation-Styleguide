@@ -86,6 +86,8 @@
 - Blockstate：方块状态
 - TileEntity/Block Entity：(?)TileEntity/方块实体值
 - Tooltip：提示文本
+- Forge Energy/Forge Unit/Forge Power：能量
+	- 用作单位时，使用对应缩写，即FE/FU/FP
 
 ## 动词相关
 
