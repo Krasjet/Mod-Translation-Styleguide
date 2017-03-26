@@ -86,6 +86,8 @@
 - Blockstate：方块状态
 - TileEntity/Block Entity：(?)TileEntity/方块实体值
 - Tooltip：提示文本
+- Forge Energy/Forge Unit/Forge Power（任何指代 `net.minecraftforge.energy` 的名称）：FE能量（注：没有空格）
+	- 用作单位时，使用对应缩写，即 FE/FU/FP ；但仍然推荐使用 `FE`
 
 ## 动词相关
 
