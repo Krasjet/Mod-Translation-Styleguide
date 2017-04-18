@@ -107,3 +107,7 @@ In case you don't know what this project is: it's a translation guide for Minecr
 - GWYOG的[LocalizationAssistant](https://github.com/GWYOG/LocalizationAssistant)（运行需要Java运行环境）
 - GitHub语言文件关键字查询（需要Python 3.4+环境）：[https://github.com/Meow-J/Mod-Translation-Styleguide/blob/master/tools/GithubKeywordQuery.py](https://github.com/Meow-J/Mod-Translation-Styleguide/blob/master/tools/GithubKeywordQuery.py)
 - 3TUSK的[文本自动更新工具](https://github.com/3TUSK/TemporaryLocalization/blob/1.9/Tool_Update.lua)（运行需要Lua 5.3+运行环境)
+
+## 09.参考资料
+
+ - [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
