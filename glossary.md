@@ -130,7 +130,7 @@
 - Cyan：青色
 - Light Gray：淡灰色
 - Gray：灰色
-- Pink 粉红色
+- Pink：粉红色
 - Lime：黄绿色
 - Yellow：黄色
 - Light Blue：淡蓝色
@@ -168,9 +168,10 @@
 	- Nether Brick：地狱砖块
 	- Nether Brick Stairs：地狱砖楼梯
 - Smooth：平滑
-	- Smooth Sandstone：平滑沙石
+	- Smooth Sandstone：平滑砂岩
 - Chiseled：錾制
-	- Chiseled Sandstone：錾制
+	- Chiseled Sandstone：錾制砂岩
+- Carved：雕纹
 - Block：块
 	- Copper Block：铜块
 	- Block of Copper：铜块
