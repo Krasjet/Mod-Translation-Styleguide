@@ -56,7 +56,17 @@ In case you don't know what this project is: it's a translation guide for Minecr
 
 注：关于中文全角标点的显示问题，请跟踪[MC-109260](https://bugs.mojang.com/browse/MC-109260)，如果可以的话，请Vote一下这个Issue，或者回复一下“confirmed”，让开发者能够看到这个Issue。
 
-## 04.专有名词
+## 04.排版
+- 当遇到英文字母、阿拉伯数字等非中文文本时，应在该段文本开头与结尾处加空格与中文文本分开。
+	- 原文：`JEI must be on the server to handle this Chat Command, it is too long for Minecraft to send.`（[Just Enough Items](https://github.com/mezz/JustEnoughItems/blob/1.12/src/main/resources/assets/jei/lang/en_us.lang), mezz）
+	- 译文：`JEI 必须安装于服务器上，方能处理本指令，这条指令对 Minecraft 来说太长了。`
+	- 不适用于有特殊规定的专有名词。
+- 数字与单位之间应留有空格。
+- 全角标点与其他字符之间不必留空格。
+	- 原文：`While simple in theory, in practice it was a little difficult. For my simple network at the time, the activation cost was quite steep because of the initial pressure required, and the drain for each source of lava was not something I was prepared for. (20000 LP to activate, 500 LP per source block)`（[Blood Magic](https://github.com/WayofTime/BloodMagic/blob/1.9/src/main/resources/assets/bloodmagicguide/lang/en_US.lang), WayOfTime, et al）
+	- 译文：`然而这只是理论。说起来容易做起来难：当时我使用的简易网络完全不适合拿来为这个仪式供应魔力，不仅挤压熔岩需要的压力巨大（需要 20000 LP 启动仪式），抽取熔岩的开支也不小（每产生一格熔岩需要 500 LP）。`
+
+## 05.专有名词
 
 - 人名/生物名/商标名
 	- 有通用翻译的外文人名或商标，则进行翻译
@@ -73,7 +83,7 @@ In case you don't know what this project is: it's a translation guide for Minecr
 - **参考**本工程的[译名标准化列表](https://github.com/Meow-J/Mod-Translation-Styleguide/blob/master/glossary.md)进行翻译
 - 如果还没有找到，请自行拟定翻译并发送PR更新本工程的译名标准化列表，如果实在无法想出翻译，则暂时留为英文
 
-## 05.语言
+## 06.语言
 
 - 对于语言的正式程度，请参见词条原文
 	- 如果原文非常正式，那么请不要玩梗或卖萌
@@ -88,7 +98,7 @@ In case you don't know what this project is: it's a translation guide for Minecr
 	- 译文：`你注意到植物魔法已经更新了。这使你充满了决心。`
 - 如果你自己做了一版卖萌形式或者玩梗形式的汉化文件，请不要发送到作者那里作为默认的汉化文件，仅流传在第三方就行了
 
-## 06.Mod名翻译
+## 07.Mod名翻译
 
 - 这里的Mod名指的是语言文件内的Mod名
 - 翻译Mod名前请至少将整个Mod通玩一边，熟悉Mod的特性与系统
@@ -97,17 +107,17 @@ In case you don't know what this project is: it's a translation guide for Minecr
 - 如果Mod名为术语或者单词翻译不存在歧义，则采用翻译名（如Forestry，林业；Logistics Pipes，物流管道；Chisel，凿子）
 - 如以上均不符，则在汉化文件内保留英文，民间翻译仅供流传使用。有一定用户量后，如果某一民间翻译人气非常高，则之后会采用人气最高版本的翻译（如Minecraft，我的世界）
 
-## 07.署名
+## 08.署名
 
 - 除非作者在语言文件中专门提供了翻译者署名的地方，请不要添加任何其它标识标明翻译者的名字，特别是作者让你签署CLA的情况。你的贡献将会在文件上方的Contribution处显示
 
-## 08.相关工具
+## 09.相关工具
 
 - craft之前写的一个[文本更新检测工具](https://github.com/crafteverywhere/Craft_Minecraft_Mod_Localization/blob/master/lang_checker.py)（运行需要Python 3+环境）
 - GWYOG的[LocalizationAssistant](https://github.com/GWYOG/LocalizationAssistant)（运行需要Java运行环境）
 - GitHub语言文件关键字查询（需要Python 3.4+环境）：[https://github.com/Meow-J/Mod-Translation-Styleguide/blob/master/tools/GithubKeywordQuery.py](https://github.com/Meow-J/Mod-Translation-Styleguide/blob/master/tools/GithubKeywordQuery.py)
 - 3TUSK的[文本自动更新工具](https://github.com/3TUSK/TemporaryLocalization/blob/1.9/Tool_Update.lua)（运行需要Lua 5.3+运行环境)
 
-## 09.参考资料
+## 10.参考资料
 
  - [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
