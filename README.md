@@ -81,7 +81,7 @@ In case you don't know what this project is: it's a translation guide for Minecr
 	- 指Mod社区的某个人物，或贡献列表中的人物，或者已有商标无中文翻译的则保留不翻译
 		- 如 `Vazbee`（[Magic Bees](https://github.com/MagicBees/MagicBees)，MysteriousAges, Arkandos, mezz, et al.）
 		- 原文：`Patreon Pie`（[Pam's HarvestCraft](https://github.com/MatrexsVigil/harvestcraft)，MatrexsVigil）
-		- 译文：`Patreon派`
+		- 译文：`Patreon 派`
 	- 对于其它的名字，保留原文不翻译
 - 对于原版中出现过的词语请根据Minecraft Wiki上的[译名标准列表](http://minecraft-zh.gamepedia.com/Minecraft_Wiki:%E8%AF%91%E5%90%8D%E6%A0%87%E5%87%86%E5%8C%96)进行翻译（注意默认方块、实体、物品是隐藏的，需要手动点击显示）
 - **参考**本工程的[译名标准化列表](https://github.com/Meow-J/Mod-Translation-Styleguide/blob/master/glossary.md)进行翻译
